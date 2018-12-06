@@ -105,8 +105,8 @@ analytics:
 author:
   name             : "Henry Huang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Saratoga | HKG"
+  bio              : "I'm a junior currently studying Computer Science and Mathematics at Skidmore College. My primary focus is on merging data with technology to create a better world."
+  location         : "NY | HKG"
   email            :
   links:
     - label: "Email"
@@ -115,7 +115,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hank-huang"
-    - label: "Instagram"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/henry-huang-657573130/"
 
