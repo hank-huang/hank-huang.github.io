@@ -106,7 +106,7 @@ author:
   name             : "Henry Huang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm a junior currently studying Computer Science and Mathematics at Skidmore College. My primary focus is on merging data with technology to create a better world."
-  location         : "NY | HKG"
+  location         : "Saratoga | HKG"
   email            :
   links:
     - label: "Email"
@@ -282,7 +282,7 @@ defaults:
       share: true
       related: true
       search: true
-      
+
     # _pages
   - scope:
       path: ""
