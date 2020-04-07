@@ -13,4 +13,4 @@ a while!
 I'm currently a junior at [Skidmore College](https://www.skidmore.edu/) in
 Saratoga Springs, majoring in Computer Science and Mathematics.
 
-[Click for my Resume](https://github.com/hank-huang/hank-huang.github.io/raw/master/assets/documents/resume_11.pdf){: .btn .btn--primary .btn--default}
+[Click for my Resume](https://github.com/hank-huang/hank-huang.github.io/blob/master/assets/documents/resume_11.pdf){: .btn .btn--primary .btn--default}
