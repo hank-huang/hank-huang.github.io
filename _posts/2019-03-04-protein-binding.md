@@ -1,6 +1,9 @@
 ---
 title: protein-binding analysis
 excerpt: "Characterization of ArkA12 binding to SH3 using Markov Models"
+header:
+  overlay_image: assets/images/Picture1.png
+  overlay_filter: .6
 tags:
   - machine learning
   - biophysics
